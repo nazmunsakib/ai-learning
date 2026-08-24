@@ -1,0 +1,12 @@
+{
+    "name": "Nazmun Sakib",
+    "profession": "Software Developer",
+    "age": 25,
+    "country": "Bangladesh",
+    "skills": [
+        "PHP",
+        "Python",
+        "JavaScript",
+        "SQL"
+    ]
+}

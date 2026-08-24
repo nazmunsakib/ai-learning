@@ -1,0 +1,15 @@
+{
+    "name": "John",
+    "age": 30,
+    "city": "New York",
+    "skills": [
+        "Python",
+        "JavaScript",
+        "SQL"
+    ],
+    "isEmployed": true,
+    "address": {
+        "street": "123 Main St",
+        "zip": "10001"
+    }
+}
